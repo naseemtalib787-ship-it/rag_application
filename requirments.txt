@@ -1,0 +1,6 @@
+gradio==3.45.0
+pandas==2.1.0
+numpy==1.26.0
+faiss-cpu==1.7.4
+sentence-transformers==2.2.2
+groq
